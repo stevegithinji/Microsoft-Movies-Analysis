@@ -72,7 +72,7 @@ See the full analysis in the [Jupyter Notebook](https://github.com/stevegithinji
 
 For additional info, contact Steve Mukara Githinji at githinjisteve96@gmail.com.
 
-[fans_at_movie_theater](images/istockphoto-1280952035-640x640.jpg)
+![fans_at_movie_theater](images/istockphoto-1280952035-640x640.jpg)
 
 
 
