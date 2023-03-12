@@ -2,7 +2,7 @@
 
 ![microsoft_movies_stock_phooto](images/microsoft_movies_analysis.jpeg)
 
-#### Author: [Steve Mukara Githinji](linkedin.com/in/steve-githinji-10ba0114a)
+#### Author: [Steve Mukara Githinji](https://www.linkedin.com/in/steve-githinji-10ba0114a)
 
 ## Overview
 
@@ -75,7 +75,41 @@ For additional info, contact Steve Mukara Githinji at githinjisteve96@gmail.com.
 ![fans_at_movie_theater](images/istockphoto-1280952035-640x640.jpg)
 
 
+## Repository Structure
 
+|   .gitignore
+|   microsoft_movie_analysis.ipynb
+|   presentation.pdf
+|   README.md
+|
++---.ipynb_checkpoints
+|       dsc-phase1-project-template-checkpoint.ipynb
+|       microsoft_movie_analysis-checkpoint.ipynb
+|
++---images
+|       fig1.png
+|       fig2.png
+|       fig3.png
+|       fig4.png
+|       fig5.png
+|       istockphoto-1191001701-612x612.jpg
+|       istockphoto-1280952035-640x640.jpg
+|       microsoft_movies_analysis.jpeg
+|       movie-slate-film-reel-wood-clapper-wooden-backgorund-36502412.jpg
+|       online_databases2.PNG
+|       retro-film-production-accessories-still-life-placed-wooden-planks-concept-making-red-curtain-background-87870307.jpg
+|
++---master
+|       movie_README.md
+|
+\---zippedData
+        bom.movie_gross.csv.gz
+        im.db
+        im.db.zip
+        rt.movie_info.tsv.gz
+        rt.reviews.tsv.gz
+        tmdb.movies.csv.gz
+        tn.movie_budgets.csv.gz
 
 
 
