@@ -1,4 +1,4 @@
-# Microsoft Movie Analysis
+# Microsoft Movies Analysis
 
 ![microsoft_movies_stock_phooto](images/microsoft_movies_analysis.jpeg)
 
