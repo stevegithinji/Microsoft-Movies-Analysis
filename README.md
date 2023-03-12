@@ -73,7 +73,7 @@ A further study may be required to determine the following:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/stevegithinji/Movies-Analysis/blob/master/microsoft_movie_analysis.ipynb) or review this [presentation](https://github.com/stevegithinji/Movies-Analysis/blob/master/Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/stevegithinji/Microsoft-Movies-Analysis/blob/master/microsoft_movies_analysis.ipynb) or review this [presentation](https://github.com/stevegithinji/Microsoft-Movies-Analysis/blob/master/presentation.pdf).
 
 For additional info, contact Steve Mukara Githinji at githinjisteve96@gmail.com.
 
